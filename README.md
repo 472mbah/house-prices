@@ -3,9 +3,9 @@
 <h2>Key areas</h2>
 <ul>
 	
-	<li>DataProcessing.ipynb - which is where the data analyses took place</li>
-	<li>Renders a server which can be used to request the predictions</li>
-	<li>FrontEnd/index.html - Web form to get the predictions</li>
+	- DataProcessing.ipynb - which is where the data analyses took place
+	- Renders a server which can be used to request the predictions
+	- FrontEnd/index.html - Web form to get the predictions
 
 </ul>
 
