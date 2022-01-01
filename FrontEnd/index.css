@@ -1,0 +1,15 @@
+body {
+
+    margin: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    width: fit-content;
+    
+}

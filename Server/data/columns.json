@@ -1,0 +1,6 @@
+{ "columns":
+    ["availability", "size", "total_sqft", "bath", "balcony",
+        "area_type_Carpet", "area_type_Plot", "area_type_Super_built-up",
+        "location_Kanakpura", "location_Sarjapur", "location_Thanisandra",
+        "location_Whitefield", "location_Yelahanka", "location_other"]
+}
